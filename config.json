@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True" ,
+    "local_uri":"sqlite:///example.sqlite",
+    "prod_uri": "sqlite:///example.sqlite",
+    "fb_url": "https://facebook.com/Nishant Walunj",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/8850309863",
+    "blog_name": "Blog",
+    "tag_line": "Welcome to blog page ",
+    "gmail-user": "nishantwalunj8@gmail.com",
+    "gmail-password": "9821117057",
+    "about_text": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur? \n   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus! \n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora! ",
+    "no_of_posts": 3,
+    "login_img": "login.svg",
+    "admin_user": "Nishant",
+    "admin_password": "123456",
+    "upload_location": "C:\\Users\\ADMIN\\Desktop\\Flask\\static"
+
+  }
+
+
+}
